@@ -1,4 +1,5 @@
 .vscode
-.exp
-.exe
-.class
+*.exp
+*.exe
+*.class
+*.obj
